@@ -1,0 +1,16 @@
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\irona\workspace\csharp\exercises\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\irona\workspace\csharp\exercises\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
